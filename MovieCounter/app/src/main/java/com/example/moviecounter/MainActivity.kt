@@ -36,7 +36,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 
         Text(text = "Hola Curso Mejorado")
         Text(text = "Segundo componente")
-        Text(text = "Tercer cambio")
+        Text(text = "Tercer cambio Mejorado")
         
         Spacer(modifier = Modifier.height(16.dp))
 

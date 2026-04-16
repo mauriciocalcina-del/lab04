@@ -34,7 +34,7 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 
     Column(modifier = modifier.padding(16.dp)) {
 
-        Text(text = "Hola Curso")
+        Text(text = "Hola Curso Mejorado")
         Text(text = "Segundo componente")
         Text(text = "Tercer cambio")
         
